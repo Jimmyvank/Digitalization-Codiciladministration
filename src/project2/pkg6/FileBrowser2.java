@@ -1,7 +1,7 @@
 package project2.pkg6;
 
 /*
- * @ author Resa C.R
+ * @ author Resa C.R.
  */
 import javax.swing.*;
 
